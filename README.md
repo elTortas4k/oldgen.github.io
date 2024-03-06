@@ -1,2 +1,2 @@
-# oldgen.github.io
-Repositorio para utilizar un dominio
+# Oldgen
+Pagina para un proyecto de síntesis
